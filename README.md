@@ -368,6 +368,6 @@ This project is open-source and available under the MIT License.
 
 ---
 
-**Author**: Your Name
-**Contact**: your.email@example.com
-**GitHub**: [your-username](https://github.com/your-username)
+**Author**: Mohammed Abdul-Ameer
+**Contact**: mabdulam101@gmail.com
+**GitHub**: [mabdulam](https://github.com/mabdulam)
